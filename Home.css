@@ -1,0 +1,33 @@
+.center{
+    text-align: center;
+}
+
+.header{
+    padding-bottom: 100px;
+}
+
+
+.header span{
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.navLink{
+    color: #303030;
+    text-decoration: none;
+    padding-left: 17px; 
+}
+
+.button{
+    padding-left: 300px;
+    border-color: blue;
+    color: blue;
+    
+    font-size: 14px;
+
+    
+}
+
+.center{
+    padding-bottom: 23px;
+}
